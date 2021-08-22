@@ -54,6 +54,10 @@ Don't hesitate to create images!
 
 Description of you and/or organisation goes here.
 
+## Screenshot Gallery
+
+![Screenshot](documentation/screenshots/2021-08-22-040649_1920x1080_scrot.png)
+
 ## Building
 
 Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
