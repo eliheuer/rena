@@ -1,4 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="2">
 	<unicode hex="0072"/>
+	<advance width="290"/>
+	<outline>
+		<contour>
+			<point x="40" y="0" type="line"/>
+			<point x="32" y="8" type="line"/>
+			<point x="32" y="504" type="line"/>
+			<point x="40" y="512" type="line"/>
+			<point x="87" y="512" type="line"/>
+			<point x="95" y="504" type="line"/>
+			<point x="112" y="453" type="line"/>
+			<point x="120" y="453" type="line"/>
+			<point x="149" y="482"/>
+			<point x="203" y="520"/>
+			<point x="257" y="520" type="curve"/>
+			<point x="258" y="426" type="line"/>
+			<point x="222" y="427" type="line"/>
+			<point x="159" y="427"/>
+			<point x="128" y="376"/>
+			<point x="128" y="320" type="curve"/>
+			<point x="128" y="8" type="line"/>
+			<point x="120" y="0" type="line"/>
+		</contour>
+	</outline>
 </glyph>
