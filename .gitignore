@@ -2,6 +2,7 @@
 venv
 build.stamp
 proof
+sources/Rena_backups
 
 # OS generated files #
 ######################
