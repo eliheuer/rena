@@ -1,5 +1,9 @@
 ----
 
+## Screenshot Gallery
+
+![Screenshot](documentation/screenshots/2021-08-22-040649_1920x1080_scrot.png)
+
 ## Setting up your font
 
 * **New repositories.** Hit the green button above ("Use this template") to create your own repository.\
@@ -48,15 +52,12 @@ Description of your font goes here. We recommend to start with a very short pres
 
 Don't hesitate to create images!
 
-![Sample Image](documentation/image1.png)
+![Sample Image](documentation/image.png)
 
 ## About
 
 Description of you and/or organisation goes here.
 
-## Screenshot Gallery
-
-![Screenshot](documentation/screenshots/2021-08-22-040649_1920x1080_scrot.png)
 
 ## Building
 
